@@ -1,0 +1,16 @@
+CAPTIONS FOR IMAGES:
+
+1. This shows the list of items (employees in this case) as well as view of the rest of the UI.
+	11. I forgot to take this screenshot immediately so it's a bit out of order, but it fits here: This is me filtering by ID descending
+	12. And sorting by name
+	13. And sorting by name descending. Other sorts are there too, the framework I used implemented them by default.
+
+2. Showing a filter by name. Partial matches don't work, has to be the full thing.
+3. Filtering by ID. Numbers + letters will result in a blank page (Unless a name has numbers).
+4. Clicking the new employee button brings up this window.
+5. Filling in the contents. This program won't automatically refresh when updates are made to the editor; the refresh button is implemented for that.
+6. Clicked refresh. It also removes the editor from being visible.
+7. Clicking on an item that already exists will bring up the editor, with the values filled in.
+8. Joe has been deleted.
+9. Clicking on Steve, and updating his name to Stevey.
+10. He's Stevey now.
